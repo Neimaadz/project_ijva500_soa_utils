@@ -53,6 +53,7 @@
 
 	<build>
 		<plugins>
+			<!-- Generate jar with package class -->
 			<!-- 
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -60,7 +61,8 @@
 				<configuration>
                 	<classifier>exec</classifier>
 				</configuration>
-			</plugin> -->
+			</plugin>
+			 -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
