@@ -8,10 +8,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cedalanavi</groupId>
-	<artifactId>projet_ijva500_soa_utils</artifactId>
+	<artifactId>project_ijva500_soa_utils</artifactId>
 	<version>1.0</version>
-	<name>projet_IJVA500_SOA_utils</name>
-	<description>projet IJVA500 SOA utils</description>
+	<name>project_ijva500_soa_utils</name>
+	<description>project ijva500 soa utils</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

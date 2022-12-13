@@ -1,4 +1,4 @@
-package com.cedalanavi.projet_IJVA500_SOA_utils;
+package com.cedalanavi.project_ijva500_soa_utils;
 
 import java.io.IOException;
 import java.io.Serializable;
