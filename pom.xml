@@ -47,7 +47,7 @@
 	   <repository>
 	     <id>github</id>
 	     <name>GitHub Neimaadz Apache Maven Packages</name>
-	     <url>https://maven.pkg.github.com/Neimaadz/projet_IJVA500_SOA_utils</url>
+	     <url>https://maven.pkg.github.com/Neimaadz/project_ijva500_soa_utils</url>
 	   </repository>
 	</distributionManagement>
 
